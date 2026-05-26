@@ -1,8 +1,8 @@
 /* =============================================
-   CardVault Service Worker — 離線快取支援
+   Charlene Service Worker — 離線快取支援
    ============================================= */
 
-const CACHE_NAME = 'cardvault-v1';
+const CACHE_NAME = 'charlene-v2';
 const ASSETS = [
   './',
   './index.html',

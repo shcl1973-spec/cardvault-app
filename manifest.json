@@ -1,11 +1,11 @@
 {
-  "name": "CardVault — 名片與客戶管理",
-  "short_name": "CardVault",
-  "description": "現代化名片與客戶詳細記錄管理系統",
+  "name": "Charlene — 名片與客戶管理",
+  "short_name": "Charlene",
+  "description": "Charlene 名片與客戶詳細記錄管理系統",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0d0f14",
-  "theme_color": "#141720",
+  "background_color": "#0d0f1a",
+  "theme_color": "#0d0f1a",
   "orientation": "portrait-primary",
   "lang": "zh-TW",
   "categories": ["business", "productivity"],
@@ -23,7 +23,6 @@
       "purpose": "any maskable"
     }
   ],
-  "screenshots": [],
   "shortcuts": [
     {
       "name": "新增客戶",
